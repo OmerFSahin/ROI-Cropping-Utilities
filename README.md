@@ -32,4 +32,4 @@ The dataset is not included in this repository due to licensing restrictions.
 
 | Before | After |
 |--------|--------|
-| ![](assets/mask_before.png) | ![](assets/mask_after.png) |
+| ![](assets/mask_before.png) | ![](https://github.com/OmerFSahin/ROI-Cropping-Utilities/blob/main/assets/mask_after.png) |
