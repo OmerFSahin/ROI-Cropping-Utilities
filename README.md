@@ -26,12 +26,12 @@ The dataset is not included in this repository due to licensing restrictions.
 
 | Before | After |
 |--------|--------|
-| ![](./assets/scan_before.png) | ![](./assets/scan_after.png) |
+| ![](./assets/scan_before.png) | ![image alt](./assets/scan_after.png) |
 
 ## Segmentation Mask
 
 | Before | After |
 |--------|--------|
-| ![](assets/mask_before.png) | ![] (https://github.com/OmerFSahin/ROI-Cropping-Utilities/blob/a684de04c16c26f7492d5ebee00dc6062e347008/assets/mask_after.png) |
+| ![](assets/mask_before.png) | ![image alt] (https://github.com/OmerFSahin/ROI-Cropping-Utilities/blob/a684de04c16c26f7492d5ebee00dc6062e347008/assets/mask_after.png) |
 
 
