@@ -26,7 +26,7 @@ The dataset is not included in this repository due to licensing restrictions.
 
 | Before | After |
 |--------|--------|
-| ![](assets/scan_before.png) | ![](assets/scan_after.png) |
+| ![](./assets/scan_before.png) | ![](./assets/scan_after.png) |
 
 ## Segmentation Mask
 
