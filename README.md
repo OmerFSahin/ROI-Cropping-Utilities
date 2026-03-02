@@ -11,7 +11,7 @@ Files are detected by name containing `scan` and `mask`.
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Run
 
 python src/roi_crop.py --input-dir data/input --output-dir data/output --margin 10
